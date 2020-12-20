@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import HelloWordl from './components/HelloWorld';
+import App from './routes/App';
 
-ReactDOM.render(<HelloWordl />, document.getElementById("app"));
+ReactDOM.render(<App />, document.getElementById("app"));
 
