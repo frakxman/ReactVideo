@@ -1,6 +1,22 @@
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 538px) {
     .main__description--title {
         font-size: 30px;
+    }
+
+    .login__container {
+        background-color: transparent;
+        border: none;
+        box-shadow: none;
+        padding: 0px;
+        width: 100%;
+    }
+
+    .register__container {
+        background-color: transparent;
+        border: none;
+        box-shadow: none;
+        padding: 0px;
+        width: 100%;
     }
 
     .footer {
